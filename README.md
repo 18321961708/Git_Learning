@@ -1,2 +1,2 @@
 # Git_Learning
-The notebook for Git
+This is a notebook for Git learning.
